@@ -32,16 +32,17 @@ dotnet restore
 3. Run the project:
 ```bash
 dotnet run
+```
 
 4. Login Authentication
 Credentials: User = UserDevelop   -- Password = 1596!233@@
 You must consume 'https://localhost:your_port/api/Authentication/Login' 
 ![image](https://github.com/user-attachments/assets/dd022d9a-75fb-42c2-b2cc-efcba2f8ed6a)
 
-Copy clibboard
+5. Copy clibboard
 ![image](https://github.com/user-attachments/assets/743453f5-fd29-49db-88cc-d88052c23c96)
 
-Also you can consume diferents request with Authorize
+Right now you can consume diferents request with Authorize
 ![image](https://github.com/user-attachments/assets/f593f785-93f1-4c2c-8f4a-81f60b34b5c8)
 
 
