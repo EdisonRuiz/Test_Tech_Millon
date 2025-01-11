@@ -17,7 +17,7 @@ public partial class Owner
     [Column(TypeName = "image")]
     public byte[]? Photo { get; set; }
 
-    public DateOnly Birthday { get; set; }
+    public DateOnly Birthday { get; set; } 
 
     [InverseProperty("IdOwnerNavigation")]
     public virtual ICollection<Property> Properties { get; set; } = new List<Property>();
