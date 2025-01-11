@@ -35,11 +35,12 @@ dotnet run
 ```
 
 4. Login Authentication
-Credentials: User = UserDevelop   -- Password = 1596!233@@
+Credentials: User = **UserDevelop**   -- Password = **1596!233@@**
+
 You must consume 'https://localhost:your_port/api/Authentication/Login' 
 ![image](https://github.com/user-attachments/assets/dd022d9a-75fb-42c2-b2cc-efcba2f8ed6a)
 
-5. Copy clibboard
+6. Copy clibboard
 ![image](https://github.com/user-attachments/assets/743453f5-fd29-49db-88cc-d88052c23c96)
 
 Right now you can consume diferents request with Authorize
