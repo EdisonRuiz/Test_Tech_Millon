@@ -11,11 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Millon.API", "Test.Mil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Millon.Tests", "Test.Millon.Tests\Test.Millon.Tests.csproj", "{F1E99E63-92B0-4BAB-9220-3BCEFC375AC6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BackUp_DataBase", "BackUp_DataBase", "{853E0AB9-43A0-4A37-B9EC-99DBD58BC480}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Documents\SQL Server Management Studio\BackUp DataBase.sql = ..\..\..\Documents\SQL Server Management Studio\BackUp DataBase.sql
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
