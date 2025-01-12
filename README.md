@@ -33,8 +33,11 @@ dotnet restore
 ```bash
 dotnet run
 ```
+4. Dowloand file **BackUp DataBase.sql** and execute query in your SQL server 
+![image](https://github.com/user-attachments/assets/d3bc6c28-13fd-45db-abe6-ded5763c4dfe)
 
-4. Login Authentication
+
+5. Login Authentication
 Credentials: User = **UserDevelop**   -- Password = **1596!233@@**
 
 You must consume 'https://localhost:your_port/api/Authentication/Login' 
